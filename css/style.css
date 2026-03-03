@@ -1,0 +1,13 @@
+/* element selector */
+/* reverensi dari web collor hunt */
+body{
+    background-color: #FFDBFD;
+    color: black;
+    }
+
+.txt-center {text-align: center;}
+.bg-warning {background-color: yellow; border-radius: 20px 0px 20px 0px;}
+.txt-black {color: black;}
+.p-1 {padding: 50px;}
+.m-1 {margin: 20px;}
+.f-1 {font-size: 20px;}
